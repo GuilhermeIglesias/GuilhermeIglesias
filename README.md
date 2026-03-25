@@ -8,7 +8,7 @@
 ### 🔭 What I'm working on
 
 - 🤖 **Final Year Project** — Stereo vision system for vineyard robotics using dual ESP32-CAM, Python, OpenCV & YOLOv12n
-- 📊 **Research Grant (BiWit / DataGEMS)** — Mathematical modelling & data management systems, Croissant/JSON-LD datasets, MoMa graph model (NORTE2030/FEDER)
+<!-- seu comentário aqui -->- 📊 **Research Grant (BiWit / DataGEMS)** — Mathematical modelling & data management systems, Croissant/JSON-LD datasets, MoMa graph model (NORTE2030/FEDER)
 
 ---
 
@@ -43,7 +43,7 @@
 |---|---|---|
 | 🤖 [Stereo Vision — Vineyard Robotics](https://github.com/GuilhermeIglesias) | Low-cost stereo vision for agricultural robots using dual ESP32-CAM. Depth mapping, object detection, real-time navigation. IN2COP 2026. | Python · OpenCV · YOLOv12n |
 | 🎮 [VR Serious Game — Industrial Training](https://orcid.org/0000-0003-0696-8592) | VR training simulator for industrial machine inspection. IFES/Vale partnership. Published at SVR 2021 & SVR 2022. | Unity 3D · C# · Python |
-| 📊 BiWit — DataGEMS Platform | Mathematical modelling & dataset management. Croissant/JSON-LD, MoMa graph model, NORTE2030/FEDER. | Python · Neo4j · JSON-LD |
+<!-- seu comentário aqui -->| 📊 BiWit — DataGEMS Platform | Mathematical modelling & dataset management. Croissant/JSON-LD, MoMa graph model, NORTE2030/FEDER. | Python · Neo4j · JSON-LD |
 | 🦾 Robotic Arm — Erasmus Lithuania | Mechanical design, 3D printing & Arduino/Python control. Vilniaus Kolegija. | SolidWorks · Arduino · Python |
 
 ---
@@ -60,7 +60,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-iglesias-rocha-gomes-0b670021a/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0696-8592)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B5EAB?style=flat&logo=github&logoColor=white)](https://GuilhermeIglesias.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gui.irgx@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a57649@alunos.ipb.pt)
 
 ---
 
