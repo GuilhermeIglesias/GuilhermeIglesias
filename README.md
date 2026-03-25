@@ -8,8 +8,8 @@
 ### 🔭 What I'm working on
 
 - 🤖 **Final Year Project** — Stereo vision system for vineyard robotics using dual ESP32-CAM, Python, OpenCV & YOLOv12n
-<!-- seu comentário aqui -->- 📊 **Research Grant (BiWit / DataGEMS)** — Mathematical modelling & data management systems, Croissant/JSON-LD datasets, MoMa graph model (NORTE2030/FEDER)
-
+<!-- seu comentário aqui -->- 📊 **Research Grant (BiWit / DataGEMS)** — Mathematical modelling & data management systems, Croissant/JSON-LD datasets, MoMa graph model (NORTE2030/FEDER) <!-- seu comentário aqui -->
+<!-- seu comentário aqui -->
 ---
 
 ### 🧠 Skills
@@ -43,7 +43,7 @@
 |---|---|---|
 | 🤖 [Stereo Vision — Vineyard Robotics](https://github.com/GuilhermeIglesias) | Low-cost stereo vision for agricultural robots using dual ESP32-CAM. Depth mapping, object detection, real-time navigation. IN2COP 2026. | Python · OpenCV · YOLOv12n |
 | 🎮 [VR Serious Game — Industrial Training](https://orcid.org/0000-0003-0696-8592) | VR training simulator for industrial machine inspection. IFES/Vale partnership. Published at SVR 2021 & SVR 2022. | Unity 3D · C# · Python |
-<!-- seu comentário aqui -->| 📊 BiWit — DataGEMS Platform | Mathematical modelling & dataset management. Croissant/JSON-LD, MoMa graph model, NORTE2030/FEDER. | Python · Neo4j · JSON-LD |
+<!-- seu comentário aqui -->| 📊 BiWit — DataGEMS Platform | Mathematical modelling & dataset management. Croissant/JSON-LD, MoMa graph model, NORTE2030/FEDER. | Python · Neo4j · JSON-LD | <!-- seu comentário aqui -->
 | 🦾 Robotic Arm — Erasmus Lithuania | Mechanical design, 3D printing & Arduino/Python control. Vilniaus Kolegija. | SolidWorks · Arduino · Python |
 
 ---
