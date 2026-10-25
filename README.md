@@ -7,7 +7,7 @@
 
 ### 🔭 What I'm working on
 
-- 🍇 **Biwit (CeDRI/UPB)** 🔒 *private repository*: pipeline that collects Portuguese agricultural news from Arquivo.pt and classifies it with LLMs (Gemma, Qwen), extracting climate and market signals for the wine sector
+- 🍇 **Biwit (CeDRI/UPB)**: pipeline that collects Portuguese agricultural news from Arquivo.pt and classifies it with LLMs (Gemma, Qwen), extracting climate and market signals for the wine sector
 - 🤖 **Final Year Project (completed, Sep 2026)**: VineEye, a stereo vision system for vineyard robotics using dual ESP32-CAM, Python, OpenCV & YOLOv12n
 - 🚜 **Autonomous tractor (UPB × University of Minho)**: low-cost RTK GPS navigation, with VineEye as a future perception module
 
@@ -47,8 +47,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 [Stereo Vision: VineEye, Vineyard Robotics](https://github.com/GuilhermeIglesias) | Final Year Project (completed). Low-cost stereo vision for agricultural robots using dual ESP32-CAM. Depth mapping, object detection, real-time navigation. IN2COP 2026. Douro Interior Prize (Consulting and Mentoring) at the Mostra Nacional de Jovens Empreendedores 2026 (Porto), exhibited at the Feira Nacional de Agricultura (Santarém). | Python · OpenCV · YOLOv12n |
-| 🍇 Biwit: agricultural news pipeline 🔒 | Research fellowship at CeDRI, code in a private repository. Scraping and LLM classification of Portuguese agricultural news, evaluated against human annotation with F1 and Cohen's kappa. Climate-event detector (11 types, 89% accuracy) and yearly reports linked to wine production. | Python · Gemma · Qwen · Ollama |
+| 🤖 [Stereo Vision: VineEye, Vineyard Robotics](https://github.com/GuilhermeIglesias) | Final Year Project (completed). Low-cost stereo vision for agricultural robots using dual ESP32-CAM. Depth mapping, object detection, real-time navigation. IN2COP 2026. Douro Interior Prize (Consulting and Mentoring) at the Mostra Nacional de Jovens Empreendedores 2026 (Porto), exhibited at the Feira Nacional de Agricultura (Santarém). | Python · YOLOv12n |
+| 🍇 Biwit: agricultural news pipeline | Research fellowship at CeDRI, code in a private repository. Scraping and LLM classification of Portuguese agricultural news, evaluated against human annotation with F1 and Cohen's kappa. Climate-event detector (11 types, 89% accuracy) and yearly reports linked to wine production. | Python · Gemma · Qwen · Ollama |
 | ⚖️ LusoLaw: EY AI Challenge 2026 | Legal AI assistant on Portuguese labour and civil law, built in 4 hours by a team of 5. Finalist, top 5 of 21 teams. | RAG · GraphRAG · ChromaDB · bge-m3 · Qwen2.5 |
 | 🎮 [VR Serious Game: Industrial Training](https://orcid.org/0000-0003-0696-8592) | VR training simulator for industrial machine inspection. IFES/Vale partnership. Published at SVR 2021 & SVR 2022. | Unity 3D · C# · Python |
 | 🦾 Robotic Arm: Erasmus Lithuania | Mechanical design, 3D printing & Arduino/Python control. Vilniaus Kolegija. | SolidWorks · Arduino · Python |
