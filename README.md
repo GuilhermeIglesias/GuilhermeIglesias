@@ -1,13 +1,15 @@
 # Hi, I'm Guilherme Iglesias 👋
 
-**Mechanical Engineering student @ IPB · Bragança, Portugal 🇵🇹**  
+**MSc Mechanical Engineering student @ IPB · Research Fellow @ CeDRI · Bragança, Portugal 🇵🇹**  
 *Heading towards Data Engineering & Software Engineering*
 
 ---
 
 ### 🔭 What I'm working on
 
-- 🤖 **Final Year Project** — Stereo vision system for vineyard robotics using dual ESP32-CAM, Python, OpenCV & YOLOv12n
+- 🍇 **SmartProduce (CeDRI/IPB)**: pipeline that collects Portuguese agricultural news from Arquivo.pt and classifies it with LLMs (Gemma, Qwen), extracting climate and market signals for the wine sector
+- 🤖 **Final Year Project (completed, Sep 2026)**: VineEye, a stereo vision system for vineyard robotics using dual ESP32-CAM, Python, OpenCV & YOLOv12n
+- 🚜 **Autonomous tractor (IPB × University of Minho)**: low-cost RTK GPS navigation, with VineEye as a future perception module
 
 ---
 
@@ -24,11 +26,16 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv12n-00FFFF?style=flat&logo=yolo&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity_3D-000000?style=flat&logo=unity&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Gemma%20%7C%20Qwen-4285F4?style=flat&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20GraphRAG-6A1B9A?style=flat&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logoColor=white)
 
 **Engineering & Design**  
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF3333?style=flat&logo=solidworks&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=flat&logo=autodesk&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino%20%2F%20ESP32-00979D?style=flat&logo=arduino&logoColor=white)
 
 **Data Standards (self-study)**  
 ![JSON-LD](https://img.shields.io/badge/Croissant%2FJSON--LD-1B5EAB?style=flat&logo=json&logoColor=white)
@@ -40,16 +47,25 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 [Stereo Vision — Vineyard Robotics](https://github.com/GuilhermeIglesias) | Low-cost stereo vision for agricultural robots using dual ESP32-CAM. Depth mapping, object detection, real-time navigation. IN2COP 2026. | Python · OpenCV · YOLOv12n |
-| 🎮 [VR Serious Game — Industrial Training](https://orcid.org/0000-0003-0696-8592) | VR training simulator for industrial machine inspection. IFES/Vale partnership. Published at SVR 2021 & SVR 2022. | Unity 3D · C# · Python |
-| 🦾 Robotic Arm — Erasmus Lithuania | Mechanical design, 3D printing & Arduino/Python control. Vilniaus Kolegija. | SolidWorks · Arduino · Python |
+| 🤖 [Stereo Vision: VineEye, Vineyard Robotics](https://github.com/GuilhermeIglesias) | Final Year Project (completed). Low-cost stereo vision for agricultural robots using dual ESP32-CAM. Depth mapping, object detection, real-time navigation. IN2COP 2026. Douro Interior Prize (Consulting and Mentoring) at the Mostra Nacional de Jovens Empreendedores 2026 (Porto), exhibited at the Feira Nacional de Agricultura (Santarém). | Python · OpenCV · YOLOv12n |
+| 🍇 SmartProduce: agricultural news pipeline | Research fellowship at CeDRI. Scraping and LLM classification of Portuguese agricultural news, evaluated against human annotation with F1 and Cohen's kappa. Climate-event detector (11 types, 89% accuracy) and yearly reports linked to wine production. | Python · Gemma · Qwen · Ollama |
+| ⚖️ LusoLaw: EY AI Challenge 2026 | Legal AI assistant on Portuguese labour and civil law, built in 4 hours by a team of 5. Finalist, top 5 of 21 teams. | RAG · GraphRAG · ChromaDB · bge-m3 · Qwen2.5 |
+| 🎮 [VR Serious Game: Industrial Training](https://orcid.org/0000-0003-0696-8592) | VR training simulator for industrial machine inspection. IFES/Vale partnership. Published at SVR 2021 & SVR 2022. | Unity 3D · C# · Python |
+| 🦾 Robotic Arm: Erasmus Lithuania | Mechanical design, 3D printing & Arduino/Python control. Vilniaus Kolegija. | SolidWorks · Arduino · Python |
+
+---
+
+### 🏆 Awards
+
+- 🥇 **Douro Interior Prize (Consulting and Mentoring)**, Mostra Nacional de Jovens Empreendedores 2026, Porto (VineEye)
+- 🏅 **Finalist, top 5 of 21 teams**, EY AI Challenge 2026, Lisbon (LusoLaw)
 
 ---
 
 ### 🌍 International Experience
 
-- 🇱🇹 **Erasmus × 2** — Vilniaus Kolegija, Lithuania (Robotic Arm + University Registration System)
-- 🇳🇱 **Erasmus** — Hanze University, Groningen, Netherlands (D-Chill: Python educational game)
+- 🇱🇹 **Erasmus × 2**: Vilniaus Kolegija, Lithuania (Robotic Arm + University Registration System)
+- 🇳🇱 **Erasmus**: Hanze University, Groningen, Netherlands (D-Chill: Python educational game)
 
 ---
 
